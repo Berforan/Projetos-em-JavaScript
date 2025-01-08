@@ -1,2 +1,1 @@
-Projeto Extensivo da Faculdade Estácio, disciplina Desenvolvimento Mobile
-
+Aplicativo de Agendamento de serviços de limpeza
